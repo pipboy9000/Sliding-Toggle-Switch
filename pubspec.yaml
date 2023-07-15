@@ -1,5 +1,5 @@
 name: sliding_toggle_switch
-description: A new Flutter package project.
+description: A Sliding toggle switch widget.
 version: 1.0.0
 homepage:
 
@@ -16,7 +16,7 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
-repository: 
+repository: https://github.com/pipboy9000/Sliding-toggle-switch
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
