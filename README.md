@@ -31,6 +31,7 @@ import 'package:sliding_toggle_switch/sliding_toggle_switch.dart';
             ),
 ```
 The default configurations look like this:
+
 ![Basic toggle switch](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29yNGk5ZW82YzU0NHZocHV0dXhtY2l5eTEzdWltOGF6NnZxMnB4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XF5CaoWnsf65w0qSr3/giphy.gif)
 
 ### Example with all available customizable properties
